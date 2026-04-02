@@ -1,12 +1,8 @@
 # gdrivelinks
 Downloadable https links to access personal gdrive links because vast.ai's integration service doesn't work.
 
-vast - https://drive.google.com/drive/folders/141Ou0ghF__NuCzkGozMBRoSj_H61sLxp?usp=sharing
-
 normal gdrive - https://drive.google.com/drive/folders/1wO0-wrt5AOLZpqzFlosCXxZjbnWuNiJL?usp=sharing
-
-tim dillon - https://drive.google.com/drive/folders/1F8rOsv51V-GBcC-cuwaA7AQoX6i1QSZt?usp=sharing
 
 "dfl_hosting" folder - https://drive.google.com/drive/folders/1Iyx_agwKbJGzQp2VwBXrEUxGpz7Duk3r?usp=sharing
 
-"tuckerv4" folder - https://drive.google.com/drive/folders/1cP8RsAZzRwfr9S2nXVhB-n2s5sdIKvAF?usp=sharing
+hashcat - https://drive.google.com/drive/folders/1q6ufUfFFDbW0SkR0tggnVPFD3uPs5ww3?usp=drive_link
